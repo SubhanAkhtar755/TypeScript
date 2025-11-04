@@ -1,25 +1,25 @@
-# 🧩 TypeScript Practice Repository  
+#  TypeScript Practice Repository  
 
 > A complete collection of my TypeScript learning exercises and mini-projects — built while transitioning from JavaScript to TypeScript.
 
 ---
 
-## 🧠 Overview  
+##  Overview  
 This repository contains multiple small projects and practice exercises created to understand and master **TypeScript fundamentals**.  
 I used this repo as a personal learning lab to explore TypeScript’s type system, object-oriented features, and real-world use cases.
 
 ---
 
-## 🚀 Key Highlights  
-- ✅ Hands-on practice with **types, interfaces, and generics**  
-- ✅ Learning **modules, namespaces, and async/await**  
-- ✅ Deep dive into **object-oriented programming (OOP)** using TypeScript  
-- ✅ Compilation setup using `tsconfig.json` and TypeScript CLI (`tsc`)  
-- ✅ All examples organized cleanly in separate folders  
+##  Key Highlights  
+-  Hands-on practice with **types, interfaces, and generics**  
+-  Learning **modules, namespaces, and async/await**  
+-  Deep dive into **object-oriented programming (OOP)** using TypeScript  
+-  Compilation setup using `tsconfig.json` and TypeScript CLI (`tsc`)  
+-  All examples organized cleanly in separate folders  
 
 ---
 
-## 🧰 Tech Stack  
+##  Tech Stack  
 | Category | Tools |
 |-----------|-------|
 | **Language** | TypeScript |
@@ -30,7 +30,7 @@ I used this repo as a personal learning lab to explore TypeScript’s type syste
 
 ---
 
-## 📁 Folder Structure  
+##  Folder Structure  
 TypeScript/
 │
 ├── /01-basic-types/ # Basic types, unions, interfaces
@@ -46,9 +46,9 @@ Copy code
 
 ---
 
-## ⚙️ Getting Started  
+##  Getting Started  
 
-### 1️⃣ Clone Repository  
+### 1️ Clone Repository  
 ```bash
 git clone https://github.com/SubhanAkhtar755/TypeScript.git
 cd TypeScript
@@ -81,7 +81,7 @@ Use async/await effectively for asynchronous programming.
 
 Configure and use TypeScript compiler options properly.
 
-🧭 Future Improvements
+ Future Improvements
 Add Jest testing for practice functions.
 
 Include real-world mini projects (e.g., API fetcher, calculator, etc.)
@@ -90,7 +90,7 @@ Add ESLint + Prettier setup for consistent formatting.
 
 Build a small full-stack project using TypeScript + Node.js + Express.
 ```
-## 👨‍💻 About the Developer
+##  About the Developer
 - Name: Muhammad Subhan Akhtar
 - Role: MERN Stack Developer | Frontend-Focused Engineer
 - Email: muhammadsubhan192128@gmail.com
