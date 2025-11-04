@@ -94,6 +94,6 @@ Build a small full-stack project using TypeScript + Node.js + Express.
 - Name: Muhammad Subhan Akhtar
 - Role: MERN Stack Developer | Frontend-Focused Engineer
 - Email: muhammadsubhan192128@gmail.com
-- Portfolio: m-subhan-portfolio.web.app
+- Portfolio: https://m-subhan-portfolio.web.app
 - LinkedIn: [SubhanAkhtar](https://www.linkedin.com/in/subhan-akhtar-109246329/)
 - GitHub: SubhanAkhtar755
